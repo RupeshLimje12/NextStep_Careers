@@ -42,7 +42,7 @@ It provides a complete structured end-to-end path for placement preparation.
 
 | Resource        | Link                                                         |
 | --------------- | ------------------------------------------------------------ |
-| 🎯 Live Website | file:///C:/Users/rupes/OneDrive/Desktop/Rupesh%20Projects/placementprep/frontend/index.html |
+| 🎯 Live Website | http://127.0.0.1:5500/frontend/index.html |
 | 📂 GitHub Repo  | https://github.com/RupeshLimje12/NextStep_Careers  |
 
 ---
@@ -159,5 +159,3 @@ All questions and company patterns are for practice only.
 
 **Email:** rupeshlimje124@gmail.com
 **GitHub:** https://github.com/RupeshLimje12
-
-Just say **"Next Step"**.
